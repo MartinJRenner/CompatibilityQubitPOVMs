@@ -60,7 +60,7 @@ lambda*v
 %Now we can also do a quick check that the conditional probabilities
 %simulate the POVM
 
-%The operators G from each octant of the rotatend frame
+%The operators G from each octant of the rotated frame
 G(1,1:8)=1/8;
 G(2:4,1:8)=v/16;
 G
